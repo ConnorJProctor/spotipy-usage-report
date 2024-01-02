@@ -1,2 +1,3 @@
 .conda
 constants.py
+*cache*
